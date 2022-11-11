@@ -1,4 +1,4 @@
-# news-home
+# news-homepage
 
 News Homepage
 
