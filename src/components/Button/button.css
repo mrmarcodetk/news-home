@@ -1,0 +1,18 @@
+.btn-group {
+  cursor: pointer;
+  border: none;
+  background-color: #F25D4F;
+  padding: 10px 25px;
+}
+
+.btn-group:hover {
+  background-color: #000019;
+}
+
+.btn-group .title {
+  font-size: 12px;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}

@@ -1,0 +1,19 @@
+.previewItemWrapper {
+  padding: 20px 0 15px 0;
+}
+
+.previewItemWrapper .title {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.previewItemWrapper .title:hover {
+  cursor: pointer;
+  color: #F4C578;
+}
+
+.previewItemWrapper .description { 
+  font-size: 14px;
+  color: #B9BACD;
+  margin-top: 7px;
+}
